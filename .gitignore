@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstats
+*.userprefs
+*.csproj.user
+launchSettings.json
+
+# NuGet
+packages/
+*.nupkg
+**/packages.lock.json
+
+# VS Code
+.vscode/
+*.vs/
+
+# Secrets
+appsettings.*.local.json
+
+# OS
+.DS_Store
+Thumbs.db
